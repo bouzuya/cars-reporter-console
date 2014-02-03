@@ -1,25 +1,25 @@
 {
-  "name": "caus-reporter-console",
+  "name": "cars-reporter-console",
   "version": "0.0.0",
-  "description": "A caus reporter for Console.",
+  "description": "A cars reporter for Console.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bouzuya/caus-reporter-console.git"
+    "url": "git://github.com/bouzuya/cars-reporter-console.git"
   },
   "keywords": [
-    "caus",
-    "caus-reporter"
+    "cars",
+    "cars-reporter"
   ],
   "author": "bouzuya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bouzuya/caus-reporter-console/issues"
+    "url": "https://github.com/bouzuya/cars-reporter-console/issues"
   },
-  "homepage": "https://github.com/bouzuya/caus-reporter-console",
+  "homepage": "https://github.com/bouzuya/cars-reporter-console",
   "devDependencies": {
     "chai": "~1.9.0",
     "mocha": "~1.17.1",
