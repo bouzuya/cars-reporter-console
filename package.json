@@ -1,0 +1,29 @@
+{
+  "name": "caus-reporter-console",
+  "version": "0.0.0",
+  "description": "A caus reporter for Console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bouzuya/caus-reporter-console.git"
+  },
+  "keywords": [
+    "caus",
+    "caus-reporter"
+  ],
+  "author": "bouzuya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bouzuya/caus-reporter-console/issues"
+  },
+  "homepage": "https://github.com/bouzuya/caus-reporter-console",
+  "devDependencies": {
+    "chai": "~1.9.0",
+    "mocha": "~1.17.1",
+    "sinon": "~1.8.1",
+    "sinon-chai": "~2.5.0"
+  }
+}
