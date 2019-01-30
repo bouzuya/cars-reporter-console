@@ -15,3 +15,13 @@ A [cars](https://github.com/bouzuya/cars) reporter for console.
 [npm-url]: https://www.npmjs.com/package/@bouzuya/cars-reporter-console
 [travisci-badge-url]: https://img.shields.io/travis/bouzuya/cars-reporter-console.svg
 [travisci-url]: https://travis-ci.org/bouzuya/cars-reporter-console
+
+## License
+
+### >= 1.0.0
+
+[MIT](LICENSE)
+
+### < 0.x
+
+ISC
