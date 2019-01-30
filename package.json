@@ -1,5 +1,5 @@
 {
-  "name": "cars-reporter-console",
+  "name": "@bouzuya/cars-reporter-console",
   "description": "A cars reporter for Console.",
   "version": "0.0.0",
   "author": "bouzuya",
