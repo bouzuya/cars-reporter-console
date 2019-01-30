@@ -1,7 +1,12 @@
-cars-reporter-console
-==============================================================================
+# cars-reporter-console
 
 A [cars](https://github.com/bouzuya/cars) reporter for console.
+
+## Installation
+
+```bash
+npm install @bouzuya/cars-reporter-console
+```
 
 ## Badges
 
